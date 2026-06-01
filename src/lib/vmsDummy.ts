@@ -44,18 +44,18 @@ const EVIDENCE_THUMBNAILS = [
 ] as const;
 
 const VMS_VIDEO_SOURCES: { name: string; videoSrc: string }[] = [
-  { name: 'Camera 1', videoSrc: '/videos/1.mov' },
-  { name: 'Camera 2', videoSrc: '/videos/2.mov' },
-  { name: 'Camera 3', videoSrc: '/videos/3.mov' },
-  { name: 'Camera 4', videoSrc: '/videos/4.MOV' },
-  { name: 'Camera 5', videoSrc: '/videos/5.mov' },
-  { name: 'Camera 6', videoSrc: '/videos/6.mov' },
-  { name: 'Camera 7', videoSrc: '/videos/7.mov' },
-  { name: 'Camera 8', videoSrc: '/videos/8.mov' },
-  { name: 'Camera 9', videoSrc: '/videos/9.mov' },
-  { name: 'Camera 10', videoSrc: '/videos/10.MOV' },
-  { name: 'Camera 11', videoSrc: '/videos/11.MOV' },
-  { name: 'Camera 12', videoSrc: '/videos/12.MOV' },
+  { name: 'Camera 1', videoSrc: '/videos/01.mov' },
+  { name: 'Camera 2', videoSrc: '/videos/02.mp4' },
+  { name: 'Camera 3', videoSrc: '/videos/03.mp4' },
+  { name: 'Camera 4', videoSrc: '/videos/04.mp4' },
+  { name: 'Camera 5', videoSrc: '/videos/05.mp4' },
+  { name: 'Camera 6', videoSrc: '/videos/06.mp4' },
+  { name: 'Camera 7', videoSrc: '/videos/07.mp4' },
+  { name: 'Camera 8', videoSrc: '/videos/08.mp4' },
+  { name: 'Camera 9', videoSrc: '/videos/09.mp4' },
+  { name: 'Camera 10', videoSrc: '/videos/010.mp4' },
+  { name: 'Camera 11', videoSrc: '/videos/011.mov' },
+  { name: 'Camera 12', videoSrc: '/videos/01.mov' },
   // { name: 'Camera 10', videoSrc: '/videos/10.mp4' },
 ];
 
